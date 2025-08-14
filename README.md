@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou a Daiana Ribeiro  
 
-💻 **Estagiária de Tecnologia** | **Graduanda em Ciência de Dados** | **Técnica em Desenvolvimento de Sistemas**  
 📊 Entusiasta de **bancos de dados**, **Python** e **análise de dados**, com experiência em **PostgreSQL**, **suporte técnico** e **desenvolvimento de soluções digitais**.  
 
 ---
@@ -30,7 +29,6 @@
 
 ## 📌 O que faço bem  
 ✅ Organização e priorização de tarefas  
-✅ Desenvolvimento e manutenção de sistemas  
 ✅ Criação e validação de protótipos  
 ✅ Suporte técnico e resolução de problemas  
 ✅ Manipulação e consulta de dados em bancos relacionais  
